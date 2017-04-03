@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_cc7495db8fe975145461cd4e2e356bb59b2696b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_4d872a27f97f4ec8d77002f722b9d55198a0ef1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_6514944e5b573388115eb31df142635f7c500fae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_b11686e3b21ace6e0cf2b3c49e5177504b316af6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_aa7cdbfdec38494a1cf6937842701f1edebd6c86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_a9607c914fb1ea3a863f8bac7bf67494cb792aa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_e626e5c5568ed525983b86a160f6af0b6a8d5084\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_b8047bbd32325284aafedeb45ddae36175e58d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_c6c8ba9ec16779fd3fe5a5999d3d223e202068e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff49e5a14f23201af0daf907ec9b8cd8b2bd7db5">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b9bbcb637d386b75aa88de40b69399bb6bd75ea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_7bd8db18177b668d712c6db25c670d21e11c2383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_02e367465cdee0269aff1fe5e34b6516591643d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lubanghui\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_78995590f679c82acfc719f32858038a22575e55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8db3af93cce9846cb8952361f0705039b5d86571">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2295927a0fe1f087740b61e14ee312667ce303e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\current\NewsAndroid\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="F:\app\current\NewsAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_0245c040cf20360b0fde33361a926ff51fe0ba55\classes.dex" />
+    </item>
+
+</items>
